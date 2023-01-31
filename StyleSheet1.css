@@ -1,0 +1,12 @@
+﻿p1 {
+    height:500px;
+    width:50%;
+    font-family:'Times New Roman', Times, serif;
+}
+.text-color {
+    color: white;
+    background-color: black;
+    margin: 47px 142px 0 116px;
+    border: 4px;
+    padding: 20px;
+}

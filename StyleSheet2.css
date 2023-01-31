@@ -1,0 +1,105 @@
+﻿.menu {
+    background: #D1F37C;
+    position:absolute;
+    width:100%;
+   
+}
+.menu ul{
+    display:inline-flex;
+   position:relative;
+}
+.menu ul li{
+    list-style-type:none;
+    margin-right:25px;
+ 
+}
+a {
+    text-decoration: none;
+    font-size: 20px;
+}
+a:hover {
+color:black;
+font-weight:bold;
+}
+.banner {
+    background-image: url('banner.jpeg');
+    height: 300px;
+    width: 100%;
+    background-repeat: repeat-x;
+    position: relative;
+    top: 60px;
+}
+.furniture {
+    background-image: url('furniture.jpeg');
+    display:inline-block;
+    height: 300px;
+    width: 100%;
+    background-repeat:no-repeat;
+    position:sticky;
+    
+}
+.electronic {
+    background-image: url('electronic.jpeg');
+    display:grid;
+    height: 300px;
+    width: 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    top: 60px;
+}
+.homeneed {
+    background-image: url('homeneed.jpeg');
+    display: grid;
+    height: 300px;
+    width: 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    top: 6px;
+}
+.cloths {
+    background-image: url('cloths.jpeg');
+    display: grid;
+    height: 300px;
+    width: 300px;
+    background-repeat: no-repeat;
+    position:relative;
+    top: 60px;
+}
+.left-panel {
+    position:absolute;
+    padding:330px 150px 75px 65px;
+   
+ 
+    top: 10px;
+}
+left-panel ul li {
+    list-style:none;
+   position:fixed;
+    margin-block-start:auto;
+    margin-bottom: 20px;
+}
+.main {
+    position: relative;
+    top: 10px;
+    margin-left: 750px;
+  margin-top:auto;
+    
+}
+    
+
+.footer {
+    background: #CCD1D1;
+    height: 50%;
+    width: 100%;
+    position: relative;
+    top:-100px;
+    margin-bottom: 0;
+}
+
+
+
+  
+
+
+
+       
